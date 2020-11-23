@@ -1,4 +1,5 @@
-![Keybase BTC](https://img.shields.io/keybase/btc/5kr1p7?style=for-the-badge)
+## Stack
+![Laravel](https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white)
 
 ![Keybase PGP](https://img.shields.io/keybase/pgp/5kr1p7?style=for-the-badge)
 
@@ -9,3 +10,8 @@
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=5kr1p7&show_icons=true&count_private=true&title_color=1565c0&icon_color=0d47a1" />
 <img src="https://komarev.com/ghpvc/?username=5kr1p7&style=flat&color=42a5f5" />
+
+## Oth
+![Keybase BTC](https://img.shields.io/keybase/btc/5kr1p7?style=for-the-badge)
+
+![Keybase PGP](https://img.shields.io/keybase/pgp/5kr1p7?style=for-the-badge)
