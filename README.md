@@ -1,4 +1,4 @@
-https://img.shields.io/keybase/btc/5kr1p7?style=for-the-badge
+<img src="https://img.shields.io/keybase/btc/5kr1p7?style=for-the-badge" />
 
 ## 💭 Contact me
 - <a href="https://t.me/skr1p7"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" width=16 height=16 align="center" /> Telegram</a>
