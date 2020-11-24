@@ -24,8 +24,9 @@
 ![Skype](https://img.shields.io/badge/skr1p7%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white)  
 
 ## 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=5kr1p7&show_icons=true&count_private=true&title_color=1565c0&icon_color=0d47a1" />
-<img src="https://komarev.com/ghpvc/?username=5kr1p7&style=flat-square&color=blue" />
+![Readme stats](https://github-readme-stats.vercel.app/api?username=5kr1p7&show_icons=true&count_private=true&title_color=1565c0&icon_color=0d47a1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=5kr1p7&layout=compact)  
+![GHPVC](https://komarev.com/ghpvc/?username=5kr1p7&style=flat-square&color=blue)
 
 ## Oth
 ![Keybase BTC](https://img.shields.io/keybase/btc/5kr1p7?style=for-the-badge)  
