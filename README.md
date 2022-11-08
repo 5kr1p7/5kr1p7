@@ -20,6 +20,7 @@
 
 ## 💭 Contact me
 ![Telegram](https://img.shields.io/badge/5kr1p7%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white) 
+[![LinkedIn](https://img.shields.io/badge/Shangin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shangin) 
 ![Twitter](https://img.shields.io/badge/5kr1p7%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white) 
 ![Instagram](https://img.shields.io/badge/5kr1p7%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white) 
 ![Skype](https://img.shields.io/badge/skr1p7%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white)  
@@ -33,5 +34,7 @@
 ![Keybase BTC](https://img.shields.io/keybase/btc/5kr1p7?style=for-the-badge)  
 ![Keybase PGP](https://img.shields.io/keybase/pgp/5kr1p7?style=for-the-badge)
 
+<!--
 Visitor count:<br>
 <img src="https://www.websitecounterfree.com/c.php?d=9&id=23926&s=1" border="0">
+-->
