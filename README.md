@@ -19,11 +19,11 @@
 
 
 ## 💭 Contact me
-![Telegram](https://img.shields.io/badge/5kr1p7%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white) 
+[![Telegram](https://img.shields.io/badge/5kr1p7%20-%231DA1F2.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/skr1p7) 
 [![LinkedIn](https://img.shields.io/badge/Shangin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shangin) 
-![Twitter](https://img.shields.io/badge/5kr1p7%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white) 
-![Instagram](https://img.shields.io/badge/5kr1p7%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white) 
-![Skype](https://img.shields.io/badge/skr1p7%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white)  
+[![Twitter](https://img.shields.io/badge/5kr1p7%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/5kr1p7) 
+[![Instagram](https://img.shields.io/badge/5kr1p7%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.org/5kr1p7/) 
+[![Skype](https://img.shields.io/badge/skr1p7%20-%2300AFF0.svg?&style=for-the-badge&logo=Skype&logoColor=white)](skype:skr1p7?chat) 
 
 ## 📊 Stats
 ![Readme stats](https://github-readme-stats.vercel.app/api?username=5kr1p7&show_icons=true&count_private=true&title_color=1565c0&icon_color=0d47a1)
